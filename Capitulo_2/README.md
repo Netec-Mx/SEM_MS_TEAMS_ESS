@@ -1,41 +1,42 @@
-# Nombre del laboratorio 
+# Nombre de la demostración: 2. Trabajo en un canal
+
+
 
 ## Objetivo de la práctica:
 Al finalizar la práctica, serás capaz de:
-- Objetivo1
-- Objetivo2
-- Objetivo3
-
-## Objetivo Visual 
-Crear un diagrama o imagen que resuma las actividades a realizar, un ejemplo es la siguiente imagen. 
-
-![diagrama1](../images/img1.png)
+- Localizar un equipo
+- Entrar a un canal
+- Publicar una actualización
+- Responder en contexto
+- Compartir un archivo y mostrar la edición colaborativa.
 
 ## Duración aproximada:
-- xx minutos.
-
-## Tabla de ayuda:
-Agregar una tabla con la información que pueda requerir el participante durante el laboratorio, como versión de software, IPs de servers, usuarios y credenciales de acceso.
-| Contraseña | Correo | Código |
-| --- | --- | ---|
-| Netec2024 | edgardo@netec.com | 123abc |
+- 10 minutos.
 
 ## Instrucciones 
-<!-- Proporciona pasos detallados sobre cómo configurar y administrar sistemas, implementar soluciones de software, realizar pruebas de seguridad, o cualquier otro escenario práctico relevante para el campo de la tecnología de la información -->
-### Tarea 1. Descripción de la tarea a realizar.
-Paso 1. Debe de relatar el instructor en verbo infinito, claro y conciso cada actividad para ir construyendo paso a paso en el objetivo de la tarea.
 
-Paso 2. <!-- Añadir instrucción -->
+### Tarea 1. Localizar un equipo
 
-Paso 3. <!-- Añadir instrucción -->
+Paso 1. En la sección izquierda de la interfaz, accede al acceso directo de *Equipos* para ingresar a los equipos disponibles.
 
-### Tarea 2. Descripción de la tarea a realizar.
-Paso 1. Debe de relatar el instructor en verbo infinito, claro y conciso cada actividad para ir construyendo paso a paso en el objetivo de la tarea.
+Paso 2. Busca algún equipo de interés al cual pertenezcas 
 
-Paso 2. <!-- Añadir instrucción -->
+### Tarea 2. Entrar a un canal
 
-Paso 3. <!-- Añadir instrucción -->
+Paso 1. Busca algún equipo al cual no pertenezcas, ahora ingresa la opción de unirte al equipo y a un canal dentro del mismo. 
+
+### Tarea 3. Publicar una actualización
+
+Paso 1. Dentro del canal, realiza una publicación, preferentemente usando opciones para etiquetar a otros integrantes del equipo, dando formato y también adjunto un archivo de la suite de microsoft para su posterior edición. 
+
+### Tarea 4. Responder en contexto
+
+Paso 1. Sobre la publicación del paso anterior, realiza una serie de comentarios para responder sobre la ultima noticia con aportaciones nuevas.
+
+### Tarea 5. Compartir un archivo y mostrar la edición colaborativa.
+
+Paso 1. Ahora regresando al archivo de la publicación anterior, haz clic en el para editarlo en linea.
 
 ### Resultado esperado
-En esta sección, se debe mostrar el resultado esperado de nuestro laboratorio
-![imagen resultado](../images/img3.png)
+
+Para este punto deberías tener una publicación en un canal de equipo, donde se hayan realizado una serie de comentarios y adjuntado un archivo.

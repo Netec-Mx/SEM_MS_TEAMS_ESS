@@ -1,41 +1,32 @@
-# Nombre del laboratorio 
+# Nombre de la demostración: 3. Reunión de principio a fin 
 
 ## Objetivo de la práctica:
 Al finalizar la práctica, serás capaz de:
-- Objetivo1
-- Objetivo2
-- Objetivo3
+- Programar, unirse, administrar audio y video en una sesión de teams.
+- Usar el chat, levantar la mano, reaccionar para interactuar en una reunion.
+- Compartir una ventana y contenido en vivo.
+- Finalizar la sesión.
 
-## Objetivo Visual 
-Crear un diagrama o imagen que resuma las actividades a realizar, un ejemplo es la siguiente imagen. 
-
-![diagrama1](../images/img1.png)
 
 ## Duración aproximada:
-- xx minutos.
-
-## Tabla de ayuda:
-Agregar una tabla con la información que pueda requerir el participante durante el laboratorio, como versión de software, IPs de servers, usuarios y credenciales de acceso.
-| Contraseña | Correo | Código |
-| --- | --- | ---|
-| Netec2024 | edgardo@netec.com | 123abc |
+- 10 minutos.
 
 ## Instrucciones 
-<!-- Proporciona pasos detallados sobre cómo configurar y administrar sistemas, implementar soluciones de software, realizar pruebas de seguridad, o cualquier otro escenario práctico relevante para el campo de la tecnología de la información -->
-### Tarea 1. Descripción de la tarea a realizar.
-Paso 1. Debe de relatar el instructor en verbo infinito, claro y conciso cada actividad para ir construyendo paso a paso en el objetivo de la tarea.
 
-Paso 2. <!-- Añadir instrucción -->
+### Tarea 1. Programar una sesión de teams.
 
-Paso 3. <!-- Añadir instrucción -->
+Paso 1. Buscar el icono de calendario dentro del navegador con el portal de teams abierto, buscar la opción de *crear un nuevo evento* una vez creado el nuevo evento selecciona evento y llena algunos de los campos para explicarlos.
 
-### Tarea 2. Descripción de la tarea a realizar.
-Paso 1. Debe de relatar el instructor en verbo infinito, claro y conciso cada actividad para ir construyendo paso a paso en el objetivo de la tarea.
+Paso 2. Una vez creada la sesión, intenta ingresar en ella pero sin entrar en dicha sesión, aprovecha este espacio para explicar las opciones de configuración pre-reunion.
 
-Paso 2. <!-- Añadir instrucción -->
+### Tarea 2. Usar el chat, levantar la mano, reaccionar para interactuar en una reunion.
 
-Paso 3. <!-- Añadir instrucción -->
+Paso 1. Dentro de la sesión de Teams del seminario, has uso de las funciones del chat, reaccionar, levantar la mano, una encuesta entre otras opciones.
+
+### Tarea 3. Compartir una ventana y contenido en vivo.
+
+Paso 1. Dentro de la sesión de Teams del seminario, usa la interfaz de Teams para mostrar las opciones para compartir el contenido mostrando las opciones de compartir pantalla completa, compartir una ventana, compartir un archivo de microsoft entre otras formas de compartir el contenido.
 
 ### Resultado esperado
-En esta sección, se debe mostrar el resultado esperado de nuestro laboratorio
-![imagen resultado](../images/img3.png)
+
+Debes contar con un evento programado en tu calendario.
