@@ -11,6 +11,8 @@ Al finalizar la práctica, serás capaz de:
 
 ## Instrucciones 
 
+![Instrucciones](/images/Laboratorio-04-00.jpg)
+
 ### Tarea 1. Localizar una conversación.
 
 Paso 1. Busca un chat mediante un la barra de búsqueda, de preferencia en dicho chat debe existir un mensaje haciendo alusión a una situación dentro de un canal.
